@@ -1,1 +1,1 @@
-GitInLab
+Repository created for Git in-lab exercise
